@@ -1,0 +1,11 @@
+
+.bg-bisque{
+ background-color: #FFF9F4;
+}
+.text-orange{
+color: rgba(250, 128, 76, 1);
+}
+.btn-bg{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+
+}
